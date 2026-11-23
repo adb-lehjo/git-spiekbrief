@@ -15,3 +15,6 @@ goed: uitleg over clone commit push pull
 dit zorgt ervoor dat git ongewenste betsanden negeert en niet uploadt naar github
 
 dit laat je code zien dat je in VS code hebt geschreven en gepushed 
+
+## 4.Pull toe 
+als iemand anders iets wijzigd in je code en je niet pulled dan zie je de weizigingen niet nu wel.
