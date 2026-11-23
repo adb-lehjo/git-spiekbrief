@@ -10,3 +10,6 @@ met pull haal je de laatste wijziging van github naar je computer
 ## 2. Een goed commitbericht
 slecht: laatste aanpassing 
 goed: uitleg over clone commit push pull
+
+## 3. GitIgnore
+dit zorgt ervoor dat git ongewenste betsanden negeert en niet uploadt naar github
