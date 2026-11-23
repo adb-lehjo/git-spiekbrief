@@ -18,3 +18,7 @@ dit laat je code zien dat je in VS code hebt geschreven en gepushed
 
 ## 4.Pull toe 
 als iemand anders iets wijzigd in je code en je niet pulled dan zie je de weizigingen niet nu wel.
+
+## 5. Terugdraaien
+
+het verwijdert de fout niet als je een nieuwe commit maakt omdat je terug kan gaan naar het vorige versie 
