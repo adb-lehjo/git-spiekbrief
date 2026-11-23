@@ -6,3 +6,7 @@ met clone dowload je een project van github naar je eigen computer
 met commit sla je zelf op wat hebt gedaan
 met push stuur je dit van je computer naar github 
 met pull haal je de laatste wijziging van github naar je computer 
+
+## 2. Een goed commitbericht
+slecht: laatste aanpassing 
+goed: uitleg over clone commit push pull
