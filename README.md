@@ -13,3 +13,5 @@ goed: uitleg over clone commit push pull
 
 ## 3. GitIgnore
 dit zorgt ervoor dat git ongewenste betsanden negeert en niet uploadt naar github
+
+dit laat je code zien dat je in VS code hebt geschreven en gepushed 
