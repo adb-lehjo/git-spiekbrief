@@ -22,3 +22,11 @@ als iemand anders iets wijzigd in je code en je niet pulled dan zie je de weizig
 ## 5. Terugdraaien
 
 het verwijdert de fout niet als je een nieuwe commit maakt omdat je terug kan gaan naar het vorige versie 
+
+## 6. Branches en pull request
+
+branch: veilige eifen kopie van je project waar je in kunt werken zonder dat de hoofdcode kapotgaat
+
+Waarom main de werkende versie blijft: Zodat de hoofdversie altijd stabiel en bruikbaar blijft terwijl jij ergens anders aan bouwt
+
+Pull request: verzoek om jouw gemaakte aanpassingen samen te voegen met de main-versie 
