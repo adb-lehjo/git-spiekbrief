@@ -1,5 +1,5 @@
 # git-spiekbrief
-# Spiekbrief Git en GitHub, versie van mijn laptop.
+# Spiekbrief Git en GitHub na conflict
 ## 1. Clone, commit, push en pull
 
 met clone dowload je een project van github naar je eigen computer 
