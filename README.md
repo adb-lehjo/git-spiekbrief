@@ -30,3 +30,11 @@ branch: veilige eifen kopie van je project waar je in kunt werken zonder dat de 
 Waarom main de werkende versie blijft: Zodat de hoofdversie altijd stabiel en bruikbaar blijft terwijl jij ergens anders aan bouwt
 
 Pull request: verzoek om jouw gemaakte aanpassingen samen te voegen met de main-versie 
+
+## 7. Mijn conflict
+
+Wat er botste: Dezelfde titel van de website en de laptop werden tegelijkertijd op een andere manier aangepast.
+
+Wat je koos: Ik heb gekozen voor de definitieve titel om de wijzigingen samen te voegen.
+
+Waarom: Dit was nodig om het handmatige merge conflict correct op te lossen en de code te synchroniseren.
